@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kwnhyk_movie_app/static/css/main.807c7579.chunk.css",
+    "main.js": "/kwnhyk_movie_app/static/js/main.93e18ce2.chunk.js",
+    "main.js.map": "/kwnhyk_movie_app/static/js/main.93e18ce2.chunk.js.map",
+    "runtime-main.js": "/kwnhyk_movie_app/static/js/runtime-main.a0d31b6e.js",
+    "runtime-main.js.map": "/kwnhyk_movie_app/static/js/runtime-main.a0d31b6e.js.map",
+    "static/js/2.b22c16a4.chunk.js": "/kwnhyk_movie_app/static/js/2.b22c16a4.chunk.js",
+    "static/js/2.b22c16a4.chunk.js.map": "/kwnhyk_movie_app/static/js/2.b22c16a4.chunk.js.map",
+    "index.html": "/kwnhyk_movie_app/index.html",
+    "precache-manifest.f1741056ff744f49f8c256f93ce565d2.js": "/kwnhyk_movie_app/precache-manifest.f1741056ff744f49f8c256f93ce565d2.js",
+    "service-worker.js": "/kwnhyk_movie_app/service-worker.js",
+    "static/css/main.807c7579.chunk.css.map": "/kwnhyk_movie_app/static/css/main.807c7579.chunk.css.map",
+    "static/js/2.b22c16a4.chunk.js.LICENSE.txt": "/kwnhyk_movie_app/static/js/2.b22c16a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0d31b6e.js",
+    "static/js/2.b22c16a4.chunk.js",
+    "static/css/main.807c7579.chunk.css",
+    "static/js/main.93e18ce2.chunk.js"
+  ]
+}
